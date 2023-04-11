@@ -1,0 +1,15 @@
+Nesse projeto de landing page, eu espero conseguir aperfeiçoar todas minhas habilidades de css, html e bootstrap.
+Fazendo com que eu já consiga criar meu portfolio utilizando essas tecnologias.
+
+
+1 Etapa do desenvolvimento 03:28 11/04
+
+Comecei o projeto, tenho o design pronto no figma, só me resta começar a desenvolver.
+Criei a pasta assets, contendo o meu bootstrap 5.1.3, o JavaScript e o css.
+Importei os mesmos para o projeto e irei começar a escrever.
+Icons do bootstrap também foi adicionado.
+(Ver sobre gitlens)
+
+
+
+
