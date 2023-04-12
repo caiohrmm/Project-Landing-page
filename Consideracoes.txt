@@ -10,6 +10,22 @@ Importei os mesmos para o projeto e irei começar a escrever.
 Icons do bootstrap também foi adicionado.
 (Ver sobre gitlens)
 
+2 Etapa do desenvolvimento 15:03 11/04
+
+Acabei a estrutura da navbar com o bootstrap e upei o projeto em meu github
+Para essa etapa eu quero acabar de fazer o cabecalho e passar aqui alguns metodos e estruturas
+para eu memorizar.
+
+d-flex -> display flex para a section
+align-items-center -> Alinha todos os itens no centro da section na vertical 
+Criação padrao de grid no bootstrap ->
+div com classe container
+div com classe row com d-flex e align-items-center
+div com a classe de quantas colunas esse conteudo irá ocupar ex: col-md-6, col-xl-4
+
+Por que eu uso 100vh como medida para o tamanho da altura do meu header?
+Simples, o 100vh considera 100% do meu viewport, ou seja, o cabecalho sempre se adaptará conforme
+o usuario
 
 
 
